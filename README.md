@@ -120,5 +120,3 @@ Build long-term authority in the healthcare/diagnostic sector
 Reduce reliance on manual SEO planning
 
 ---
-## Author
-Mamatha – Prompt Engineering Intern
