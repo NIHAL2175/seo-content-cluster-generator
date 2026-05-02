@@ -71,15 +71,7 @@ The system builds an **AI-driven SEO Engine** that generates:
 |-------------------------------|-----------------------------------------|
 | `keyword-strategy.md`        | Define keyword targeting approach        |
 | `content-architecture.md`    | Plan pillar-cluster content hierarchy    |
-| `seo-plan.md`                | Overall SEO strategy for the website    |
-
----
-
-## Content Flow Diagram
-
-![Content Flow Diagram](assets/content-flow-diagram.png)
-
-*This diagram shows how prompts, strategy documents, pillar pages, and cluster pages interact to create a structured SEO content system.*
+| `seo-plan.md`                | Overall SEO strategy for the website     |
 
 ---
 
